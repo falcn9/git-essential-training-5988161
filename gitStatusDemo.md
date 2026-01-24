@@ -5,3 +5,4 @@ new line
 added a new line
 add another line
 
+another change to demo merge conflict
